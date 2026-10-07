@@ -29,7 +29,7 @@ Outside of school I enjoy playing golf (a highlight was meeting [Jim Nantz][arti
 [kp]: https://www.kleinerperkins.com/fellows/
 [bcv]: https://baincapitalventures.com/insight/application-open-now-the-2026-bcv-labs-summer-fellowship/
 [email]: mailto:wzliu@stanford.edu
-[cssc]: https://cssc.stanford.edu
+[cssc]: https://cs.stanford.edu/student-council
 [semi]: https://semiclub.stanford.edu
 [golf]: https://instagram.com/stanfordgolfclub
 [article]: https://www.golfdigest.com/story/jim-nantz-being-named-honorary-chairman-first-tee-after-two-us-presidents-humbling
